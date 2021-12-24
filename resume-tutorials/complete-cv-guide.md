@@ -5,6 +5,9 @@ Recruitment software now scans your CV for key words and skills used in the job 
 ##  Template:
 Although it is a meme but this is a perfect template for [resume](CV_Template.jpg)
 
+## CV Builder
+I would highly recommend [FlowCV](flowcv.io)
+
 ## Two types of CV
 There are two main types of CV:
 - Skills-focused CV – useful for career changers, school leavers or people with gaps in work history.
