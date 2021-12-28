@@ -18,4 +18,3 @@ These topics to study for OOP.
 - Abstract Class vs Interface Class
 - Overriding & Overloading
 - Static & Dynamic Binding
-
