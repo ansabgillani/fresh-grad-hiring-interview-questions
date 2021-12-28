@@ -1,0 +1,105 @@
+# Topics to study for DSA
+These topics to study for DSA.
+
+- Stack Functions
+- - Implement Stack using Queue
+- - Reeversing an array, string
+- - String manipulation
+- - Infix to Postfix Conversion using Stack
+- - Prefix to Infix Conversion
+- - Prefix to Postfix Conversion
+- - Postfix to Prefix Conversion
+- - Postfix to Infix
+- - Convert Infix To Prefix Notation
+- - Check for balanced parentheses in an expression
+- - Next Greater Element
+- - Next Greater Frequency Element
+- - The Celebrity Problem
+- - Expression Evaluation
+- - Arithmetic Expression Evalution
+- - Evaluation of Postfix Expression
+- - Iterative Tower of Hanoi
+- - next greater number of Q queries
+- - Reverse a stack using recursion
+- - Sort a stack using recursion
+- - Sort a stack using a temporary stack
+- - Reverse a stack without using extra space in O(n)
+- - Delete middle element of a stack
+- - Sorting array using Stacks
+- - Delete array elements which are smaller than next or become smaller
+- - Check if a queue can be sorted into another queue using a stack
+- - Reverse individual words
+- - Count subarrays where second highest lie before highest
+- - Check if an array is stack sortable
+
+
+- Queue Functions
+- - Implement Queeue using stack
+- - Breadth First Traversal or BFS for a Graph
+- - Level Order Tree Traversal
+- - Reverse a path in BST using queue
+- - Construct Complete Binary Tree from its Linked List Representation
+- - Check whether a given Binary Tree is Complete or not
+- - Number of siblings of a given Node in n-ary Tree
+- - ZigZag Tree Traversal
+- - FIFO (First-In-First-Out) approach in Programming
+- - FIFO vs LIFO approach in Programming
+- - LIFO (Last-In-First-Out) approach in Programming
+- - Reversing a Queue
+- - Reversing a queue using recursion
+- - Reversing the first K elements of a Queue
+- - Sorting a Queue without extra space
+
+- Linked List
+- - Middle of Linked List
+- - Find Linked List is circular or not
+- - Insert/Delete at nth node of Linked List
+- - Merge two Linked Lists
+- - Reverse a Linked List
+- - Remove all occurrences
+- - Linked List vs Array
+- - Linked List Insertion
+- - Linked List Deletion (Deleting a given key)
+- - Linked List Deletion (Deleting a key at given position)
+- - delete a Linked List
+- - Find Length of a Linked List (Iterative and Recursive)
+- - Search an element in a Linked List (Iterative and Recursive)
+- - Write a function to get Nth node in a Linked List
+- - Nth node from the end of a Linked List
+- - middle of a given linked list
+- - count the number of times a given int occurs in a Linked List
+- - Detect loop in a linked list
+- - Find length of loop in linked list
+- - check if a singly linked list is palindrome
+- - Remove duplicates from a sorted linked list
+- - Remove duplicates from an unsorted linked list
+- - Swap nodes in a linked list without swapping data
+- - Pairwise swap elements of a given linked list
+- - Move last element to front of a given Linked List
+- - Intersection of two Sorted Linked Lists
+- - Intersection point of two Linked Lists.
+- - QuickSort on Singly Linked List
+- - Segregate even and odd nodes in a Linked List
+- - Reverse a linked list
+
+- Binary Search Tree
+
+- Sorting Algorithms
+- - Selection Sort
+- - Bubble Sort
+- - Recursive Bubble Sort
+- - Insertion Sort
+- - Recursive Insertion Sort
+- - Merge Sort
+- - Iterative Merge Sort
+- - Quick Sort
+- - Iterative Quick Sort
+- - Heap Sort
+- - Counting Sort
+- - Bucket Sort
+- Complexities & Stability of Sorting Algorithms
+- Difference between List, Array & Vector
+- BFS & DFS
+- Check if a Graph is a Tree or not
+- Hashmap
+- Heap
